@@ -1,0 +1,8 @@
+{
+    "author": "Maxwell Joslyn",
+    "email": "maxwelljoslyn@gmail.com",
+    "full_name": "Maxwell Joslyn",
+    "github_username": "maxwelljoslyn",
+    "project_name": "My New Project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace(\"'\",'') }}"
+}
